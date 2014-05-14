@@ -1,0 +1,23 @@
+{
+  "name": "fuzzy-bear-is-gulping",
+  "version": "0.0.1",
+  "description": "Boilerplate",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tommica/fuzzy-bear-is-gulping"
+  },
+  "author": "Tommi Carleman",
+  "license": "THE UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/tommica/fuzzy-bear-is-gulping/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.5.5",
+    "gulp-less": "~1.2.2",
+    "gulp-imagemin": "~0.1.5"
+  },
+  "dependencies": {
+    "gulp-dot": "~1.5.0"
+  }
+}
